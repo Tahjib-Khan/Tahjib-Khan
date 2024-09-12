@@ -4,6 +4,8 @@
 
 - <b>React Mini Projects</b>
   - [Investment Calculator](https://github.com/Tahjib-Khan/React-Investment-Calculator/tree/master)
+  - [Tic-Tac-Toe](https://github.com/Tahjib-Khan/React-Tic-Tac-Toe/tree/master)
+
 
 
 

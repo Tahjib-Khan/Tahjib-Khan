@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>React Mini Projects</b>
+  - [Task Manager Web App](https://github.com/Tahjib-Khan/Simple-Task-Manager-App/tree/main) 
   - [Investment Calculator](https://github.com/Tahjib-Khan/React-Investment-Calculator/tree/master)
   - [Tic-Tac-Toe](https://github.com/Tahjib-Khan/React-Tic-Tac-Toe/tree/master)
   - [Timer Mini-Game](https://github.com/Tahjib-Khan/Stop-the-timer-game/tree/main

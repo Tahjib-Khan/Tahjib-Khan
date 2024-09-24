@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tahjib! <br/><a href="https://github.com/Tahjib-Khan">Programmer</a>, <a href="https://www.linkedin.com/in/tahjib-khan-51aa69206/">Tech Degree Apprentice</a>,</h1>
+<h1>Hi, I'm Tahjib! <br/><a href="https://github.com/Tahjib-Khan">Programmer</a>, <a href="https://www.linkedin.com/in/tahjib-khan-51aa69206/">Tech Apprentice at a Big 4</a>,</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
